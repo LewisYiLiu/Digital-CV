@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LewisYiLiu/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LewisYiLiu/Digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dear All,
+I am writing with interest in joining Tiny Technology as an intern QA eningeer. As an undergraduate of Mechatronics engineering at Queensland University of Technology (QUT), I would be grateful for an opportunity to explore and participate in technical support for engineering projects. Designing, creating, and troubleshooting has been part of our university course study and assignments, contributing to my increasing interest in this field.
+The various assignments during my course of studies and my working experiences in Singapore have enabled me to possess designing and troubleshooting skills. I am willing to take the initiative to work well on this project. Having had to juggle various assignments at one time, meeting each deadline requires discipline, and prioritizing are some of my strengths. I enjoyed being challenged and believing that there is a solution to every problem.
+I see this internship is an excellent chance to consolidate all my learning. I would be grateful for exploring other engineering areas that are not limited to the mechatronics area as I believe that I should not be limited in my own study area - getting knowledge from other areas is also a good way to strengthen my interest of study.
+Granted the opportunity, I hope that this project will improve my technical skills and enhance my learning and experience for the future. I have enclosed my resume for your reference, and I am looking forward to your earliest convenience to discuss further your needs and objectives and the possibility of working together to meet them. Thank you.
+Yours faithfully,
+Yi Liu
